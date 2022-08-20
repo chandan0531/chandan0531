@@ -1,3 +1,5 @@
+![snake gif](https://github.com/chandan0531/chandan0531/blob/output/github-contribution-grid-snake.gif)
+
 <h1 align="center">Hi 👋, I'm Chandan Kumar Sharma</h1>
 <h3 align="center">A passionate backend developer with the ability to write clean, reusable and optimized code.</h3>
 <img align = "right" alt ="image" width = "400" src = "https://nboard.in/assets/images/examples/career1.gif">
