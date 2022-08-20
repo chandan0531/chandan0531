@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan0531&label=Profile%20views&color=0e75b6&style=flat" alt="chandan0531" /> </p>
 
-- 🌱 I’m currently learning **Java backend, SBMS, REST API**
+- 🌱 I’m currently learning **Java backend development**
 
-- 💬 Ask me about **Java, SBMS, DBMS**
+- 💬 Ask me about **Java, Apache Maven, Hibernate, Spring, Springboot**
 
 - 📫 How to reach me **chandan0521@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r0t-JChYXK5pGEXYPy6rJDLea52s2j2R/view](https://drive.google.com/file/d/1r0t-JChYXK5pGEXYPy6rJDLea52s2j2R/view)
+- 📄  Here is my Resume [RESUME](https://drive.google.com/file/d/1r0t-JChYXK5pGEXYPy6rJDLea52s2j2R/view)
 
 - ⚡ Fun fact **I am funny**
 
