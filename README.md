@@ -40,10 +40,18 @@
    
 </p>
 
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan0531&show_icons=true&locale=en&layout=compact" alt="chandan0531" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan0531&show_icons=true&locale=en" alt="chandan0531" /></p>
+## 📊 My Github Stats
+
+  <br/>
+   <a href="https://github.com/chandan0531/github-readme-stats"><img alt="chandan0531's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan0531&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/chandan0531/github-readme-stats"><img alt="chandan0531's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chandan0531&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ 
+  <br/>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan0531&" alt="chandan0531" /></p>
+
+
+
 
