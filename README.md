@@ -13,7 +13,7 @@
 - 📫 How to reach me **chandan0521@gmail.com**
 
 - 📄  Here is my Resume [RESUME](https://drive.google.com/file/d/1r0t-JChYXK5pGEXYPy6rJDLea52s2j2R/view)
-- 📄 Here is my Portfolio [PORTFOLIO](https://chandanportfolio1.netlify.app/)
+- 👨‍💻  Here is my Portfolio [PORTFOLIO](https://chandanportfolio1.netlify.app/)
 
 - ⚡ Fun fact **I am funny**
 
