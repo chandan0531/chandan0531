@@ -40,7 +40,6 @@
    
 </p>
 
-
 ## 📊 My Github Stats
 
   <br/>
@@ -48,7 +47,6 @@
     <a href="https://github.com/chandan0531/github-readme-stats"><img alt="chandan0531's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chandan0531&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
   <br/>
-
 
 <p align="center">
     <a href="https://github.com/chandan0531/github-readme-streak-stats">
